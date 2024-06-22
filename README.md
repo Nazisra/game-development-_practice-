@@ -1,7 +1,5 @@
-# RGBDS
-
-RGBDS (Rednex Game Boy Development System) is a free assembler/linker package
-for the Game Boy and Game Boy Color. It consists of:
+# game practice
+forked form someone for practice and understand the code
 
 - RGBASM (assembler)
 - RGBLINK (linker)
